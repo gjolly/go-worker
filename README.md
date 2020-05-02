@@ -2,6 +2,8 @@
 
 Cloudflare worker that runs Go.
 
+You can try it at: https://worker-go.gauthier.workers.dev/?a=200&b=398
+
 ## Requirements
 
   - [`tinygo`](https://tinygo.org/): to compile Go to WASM
